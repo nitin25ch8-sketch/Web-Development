@@ -160,6 +160,40 @@ Creating a page like this is not necessary but it creates a readable & structure
 
 Also, they are useful for SEO
 
+<img src="photo.jpg" alt="Layout of the website" width="300" >
+
+### Link Attributes
+
+```<a href="/contact">Contact us</a>```
+→ Contact page will open in same tab
+
+```<a href="/contact" target="_blank">Contact us</a>```
+→ Contact page will open in a new tab
+
+### The Div Tag
+
+```<div>``` tag is often used as a container for another elements
+
+div is a block level element
+
+Always takes full width
+
+### The Span Tag
+
+```<span>``` tag is an inline container
+
+Takes as much width as necessary
+
+#### Example:
+```
+<div>
+  <p>Hello World!</p>
+</div>
+
+<span>
+  <p>My name is Nitin Chauhan</p>
+</span>
+```
 
 
 
