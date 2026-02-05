@@ -97,7 +97,7 @@ We can make the text a bit larger & a bit smaller using big & small tags respect
 
 hr tag in HTML is used to create a horizontal ruler, often used to separate the content
 
-#### Subscript & Superscript
+### Subscript & Superscript
 
 We can add subscript & superscripts in HTML as follows:
 
@@ -105,7 +105,7 @@ We can add subscript & superscripts in HTML as follows:
 
 ```<sup></sup>``` → Superscript
 
-#### Pre tag
+### Pre tag
 
 HTML always ignores extra spaces & newlines
 
@@ -124,7 +124,7 @@ Nitin is
 very good
 boy
 ```
-#### Web Browser
+### Web Browser
 
 Unlike other programming, HTML doesn’t show output in any compiler
 
@@ -159,5 +159,7 @@ Inside the main tag we insert the following tags:
 Creating a page like this is not necessary but it creates a readable & structured layout
 
 Also, they are useful for SEO
+
+
 
 
