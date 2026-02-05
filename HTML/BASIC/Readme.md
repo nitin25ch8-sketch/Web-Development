@@ -97,5 +97,67 @@ We can make the text a bit larger & a bit smaller using big & small tags respect
 
 hr tag in HTML is used to create a horizontal ruler, often used to separate the content
 
+#### Subscript & Superscript
+
+We can add subscript & superscripts in HTML as follows:
+
+```<sub></sub>``` → Subscript
+
+```<sup></sup>``` → Superscript
+
+#### Pre tag
+
+HTML always ignores extra spaces & newlines
+
+In order to display a piece of text as it is, we use pre tag
+```
+<pre>
+Nitin is
+very good
+boy
+</pre>
+```
+
+Output:
+```
+Nitin is
+very good
+boy
+```
+#### Web Browser
+
+Unlike other programming, HTML doesn’t show output in any compiler
+
+Web browser reads HTML files & determines how to show content with help of HTML tags
+
+Any web browser can be used to open a .html or .htm file & view the results
+
+### Creating a Page Layout
+
+When we use the right tag in right place, it results in a better page layout, better indexing by search engines & better user experience
+
+We use the following tags to get the job done:
+
+```<header>``` → contains nav tag
+
+```<main>```
+
+```<footer>```
+
+Inside the main tag we insert the following tags:
+
+```<main>``` → the main opening tag
+
+```<section>``` → a self page section
+
+```<article>``` → a self contained content
+
+```</main>``` → the main closing tag
+
+```<aside>``` → content aside from the content (eg: Ads etc)
+
+Creating a page like this is not necessary but it creates a readable & structured layout
+
+Also, they are useful for SEO
 
 
