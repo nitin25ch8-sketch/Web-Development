@@ -1,4 +1,4 @@
-## Firat HTML 
+## First HTML 
 ```html
 <!DOCTYPE html>
 <html>
