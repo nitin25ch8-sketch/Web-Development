@@ -49,4 +49,4 @@ My name is Nitin Chauhan
 </html>
 ```
 ### OUTPUT
-<img src= "Screenshot 2026-02-06 185407">
+<img src= "Screenshot 2026-02-06 185407.png">
