@@ -4,7 +4,7 @@
 #### Topics -
 - Stucture of HTML
 - HTML ELEMENT, ATTRIBUTES, TAGS ,COMMENTS
-- SUbscript & Superscript
+- Subscript & Superscript
 - Web Browser
 - Page Layout
 - Link Attributes
