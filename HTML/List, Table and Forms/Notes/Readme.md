@@ -117,7 +117,7 @@ Basic Table Example:
 ### 🔹 Table Caption
 
 Used to add a title to the table.
-```
+```html
 <table>
   <caption>Student Details</caption>
 </table>
@@ -128,7 +128,7 @@ Used to add a title to the table.
 
 <tbody> → Table body
 ```
-```
+```html
 <table>
   <thead>
     <tr><th>Name</th><th>Marks</th></tr>
@@ -141,7 +141,7 @@ Used to add a title to the table.
 ### 🔹 Colspan Attribute
 
 Used to merge columns.
-```
+```html
 <th colspan="3">Student Info</th>
 ```
 
@@ -153,7 +153,7 @@ HTML forms are used to collect user input.
 
 
 ### 🔹 Syntax
-```
+```html
 <form>
   <!-- form elements -->
 </form>
@@ -181,13 +181,13 @@ file
 ### 🔹 Textarea Element
 
 Used for multi-line text input.
-```
+```html
 <textarea rows="4" cols="30"></textarea>
 ```
 ### 🔹 Select Element
 
 Defines a dropdown list.
-```
+```html
 <select>
   <option>India</option>
   <option>USA</option>
@@ -196,7 +196,7 @@ Defines a dropdown list.
 ## 🎥 Embedding Videos in HTML
 
 The <video> tag is used to play videos.
-```
+```html
 <video src="video.mp4" controls>
   Error
 </video>
