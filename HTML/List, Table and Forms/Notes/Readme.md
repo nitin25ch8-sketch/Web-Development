@@ -20,3 +20,129 @@ Used to list unordered items (bulleted list).
   <li>Home</li>
   <li>About</li>
 </ul>
+```
+### 🔸 Ordered List
+
+Used to list ordered items (numbers, letters, Roman numerals).
+
+**Syntax:**
+```html
+<ol>
+  <li>Pen</li>
+  <li>Pencil</li>
+  <li>Eraser</li>
+  <li>Copy</li>
+</ol>
+```
+### 🔸 Types of Ordered Lists
+```html 
+<ol type="1">   <!-- Default -->
+<ol type="A">   <!-- A, B, C -->
+<ol type="a">   <!-- a, b, c -->
+<ol type="I">   <!-- I, II, III -->
+<ol type="i">   <!-- i, ii, iii -->
+```
+
+Example:
+```html
+<ol type="A">
+  <li>HTML</li>
+  <li>CSS</li>
+</ol>
+```
+### 🔸 Reversed Ordered List
+
+Displays list in reverse order.
+```html
+<ol reversed>
+  <li>First</li>
+  <li>Second</li>
+  <li>Third</li>
+</ol>
+```
+
+### 🔸 Control List Counting
+
+Used to change the starting number of an ordered list.
+```html
+<ol start="5">
+  <li>Java</li>
+  <li>Python</li>
+</ol>
+```
+
+### 🔸 Nested Ordered List (Sub-list)
+```html
+<ol>
+  <li>JavaScript
+    <ol>
+      <li>React</li>
+      <li>Node</li>
+    </ol>
+  </li>
+  <li>Python
+    <ol>
+      <li>Django</li>
+      <li>Flask</li>
+    </ol>
+  </li>
+</ol>
+```
+
+## 📊 HTML Tables
+
+The <table> tag is used to format and display tabular data.
+
+### 🔹 Table Tags
+```html
+<tr> → Table row
+
+<td> → Table data
+
+<th> → Table header
+
+Basic Table Example:
+
+<table border="1">
+  <tr>
+    <th>Name</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Nitin</td>
+    <td>21</td>
+  </tr>
+</table>
+```
+### 🔹 Table Caption
+
+Used to add a title to the table.
+```
+<table>
+  <caption>Student Details</caption>
+</table>
+```
+### 🔹 Table Sections
+```
+<thead> → Table head
+
+<tbody> → Table body
+```
+```
+<table>
+  <thead>
+    <tr><th>Name</th><th>Marks</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Aman</td><td>90</td></tr>
+  </tbody>
+</table>
+```
+### 🔹 Colspan Attribute
+
+Used to merge columns.
+```
+<th colspan="3">Student Info</th>
+```
+
+This spans 3 columns.
