@@ -146,3 +146,71 @@ Used to merge columns.
 ```
 
 This spans 3 columns.
+
+## 📝 HTML Forms
+
+HTML forms are used to collect user input.
+
+
+### 🔹 Syntax
+```
+<form>
+  <!-- form elements -->
+</form>
+```
+### 🔹 Input Elements
+```
+text
+
+checkbox
+
+radio
+
+button
+
+submit
+
+file
+```
+```html
+<input type="text" placeholder="Enter name">
+<input type="radio"> Male
+<input type="checkbox"> Agree
+```
+
+### 🔹 Textarea Element
+
+Used for multi-line text input.
+```
+<textarea rows="4" cols="30"></textarea>
+```
+### 🔹 Select Element
+
+Defines a dropdown list.
+```
+<select>
+  <option>India</option>
+  <option>USA</option>
+</select>
+```
+## 🎥 Embedding Videos in HTML
+
+The <video> tag is used to play videos.
+```
+<video src="video.mp4" controls>
+  Error
+</video>
+```
+### 🔹 Video Attributes
+```
+controls
+
+autoplay
+
+loop
+
+width
+```
+```html
+<video src="demo.mp4" controls autoplay loop width="300"></video>
+```
