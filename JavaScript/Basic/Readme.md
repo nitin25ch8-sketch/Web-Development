@@ -5,7 +5,7 @@ It is an **interpreted** language that executes code line by line, providing mor
 
 ### Hello World (code)
 ```javascript
-console.log("Hello Wolrd")
+console.log("Hello World!")
 ```
 #### Output
-Hello World
+Hello World!
