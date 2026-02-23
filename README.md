@@ -31,3 +31,6 @@ Link- https://drive.google.com/file/d/1yxsu0jV5PocCj6u2OP1-suRrLhFw2ry8/view?usp
 
 ## JavaScript
 
+### Basic of JavaScript
+#### Topics- 
+
