@@ -33,4 +33,10 @@ Link- https://drive.google.com/file/d/1yxsu0jV5PocCj6u2OP1-suRrLhFw2ry8/view?usp
 
 ### Basic of JavaScript
 #### Topics- 
+- JavaScript Introduction
+- JavaScript Comments
+- Key Features of JavaSrcipt
+- Client-Side vs Server-Side
+- Data Types in JavaScript
+- 
 
