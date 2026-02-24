@@ -38,6 +38,8 @@ Link- https://drive.google.com/file/d/1yxsu0jV5PocCj6u2OP1-suRrLhFw2ry8/view?usp
 - Key Features of JavaSrcipt
 - Client-Side vs Server-Side
 - Data Types in JavaScript
+- Operators
+- Variables
 
 Link- https://drive.google.com/file/d/1KZdJK3sADN_T46zpJcy1twoo3Sh29zez/view?usp=sharing
 
